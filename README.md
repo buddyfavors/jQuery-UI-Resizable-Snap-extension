@@ -1,4 +1,4 @@
-jQuery UI Resizable Snap extension
+jQuery UI (1.7.1) Resizable Snap extension
 ==================================
 ### by Alexander Polomoshnov (alex.polomoshnov@gmail.com)
 ### released under [the MIT license](https://raw.github.com/polomoshnov/jQuery-UI-Resizable-Snap-extension/master/LICENSE.txt)
